@@ -2,14 +2,15 @@ To Read list
 
 ----------------------More on Color Reading and Text----------------------------
 1. Text2Color : Coloring with Words : Guiding Image Colorization Through Text-based Palette Generation. (ECCV 2018)
-2. Tracking Emerges by Colorizing Videos. (ECCV 2018)
-3. Imagine This! Scripts to Composites to Videos. (ECCV 2018)
-4. Keyword Based Image Color Re-rendering with Semantic Segmentation (ICIP 2017)
-5. PaletteNet: Image Recolorization with Given Color Palette
-6. Palette-based Photo Recoloring
-7. Colors – Messengers of Concepts: Visual Design Mining for Learning Color Semantics
-8. Toward automatic and flexible concept transfer
-9. A Bayesian Model of Grounded Color Semantics
+2. Affective image adjustment with a single word (International Journal of Computer Graphics 2013)
+3. Tracking Emerges by Colorizing Videos. (ECCV 2018)
+4. Imagine This! Scripts to Composites to Videos. (ECCV 2018)
+5. Keyword Based Image Color Re-rendering with Semantic Segmentation (ICIP 2017)
+6. PaletteNet: Image Recolorization with Given Color Palette
+7. Palette-based Photo Recoloring
+8. Colors – Messengers of Concepts: Visual Design Mining for Learning Color Semantics
+9. Toward automatic and flexible concept transfer
+10. A Bayesian Model of Grounded Color Semantics
 
 ------------------------Reading on Neural Style Transfer-------------------------
 
