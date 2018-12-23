@@ -11,6 +11,7 @@ To Read list
 8. Colors – Messengers of Concepts: Visual Design Mining for Learning Color Semantics
 9. Toward automatic and flexible concept transfer
 10. A Bayesian Model of Grounded Color Semantics
+11. Real-Time User-Guided Image Colorization with Learned Deep Priors (SIGGRAPH 2017)
 
 ------------------------Reading on Neural Style Transfer-------------------------
 
