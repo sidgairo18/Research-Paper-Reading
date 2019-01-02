@@ -21,6 +21,8 @@ Movie and Text Datasets :  MPII Movie Description dataset
 14. Movie Description (IJCV 2017)
 15. Generating Descriptions with Grounded and Co-Referenced People (CVPR 2017)
 
+Related links for (12-15) : https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/mpii-movie-description-dataset/
+
 ------------------------Reading on Movie Color Grading--------------------------
 
 ------------------------Reading on Neural Style Transfer-------------------------
