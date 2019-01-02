@@ -13,7 +13,14 @@ To Read list
 10. A Bayesian Model of Grounded Color Semantics
 11. Real-Time User-Guided Image Colorization with Learned Deep Priors (SIGGRAPH 2017)
 
+------------------------Reading on Movie Color Grading--------------------------
+
 ------------------------Reading on Neural Style Transfer-------------------------
+1. Image Style Transfer Using Convolutional Neural Networks (CVPR 2016)
+2. Controlling Perceptual Factors in Neural Style Transfer (CVPR 2017)
+3. Preserving Color in Neural Artistic Style Transfer (arxiv https://arxiv.org/pdf/1606.05897.pdf)
+
+Read about Aaron Hertzmann's work with Style. His page : https://www.dgp.toronto.edu/~hertzman/
 
 ------------------------Reading on Style Representations-------------------------
 
