@@ -43,6 +43,9 @@ Read about Aaron Hertzmann's work with Style. His page : https://www.dgp.toronto
 1. Image-to-image translation for cross-domaindisentanglement (NIPS 2018)
 2. 
 
+---------------------------Reading on Self-Supervised Learning-------------------
+As a starter add Prof. Andrew Zisserman's work from the VGG Group, Oxford University.
+
 ---------------------------Image and Text Similarity------------------------------
 Add the ACL paper for image and text similarity using the triplet loss kind of concept.
 
