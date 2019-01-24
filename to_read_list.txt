@@ -31,6 +31,7 @@ Related links for (12-15) : https://www.mpi-inf.mpg.de/departments/computer-visi
 3. Preserving Color in Neural Artistic Style Transfer (arxiv https://arxiv.org/pdf/1606.05897.pdf)
 
 Read about Aaron Hertzmann's work with Style. His page : https://www.dgp.toronto.edu/~hertzman/
+Another Useful list for Style, Art and Deep Learning : https://handong1587.github.io/deep_learning/2015/10/09/fun-with-deep-learning.html
 
 ------------------------Reading on Style Representations-------------------------
 1. Generalisation and Sharing in Triplet Convnets for Sketch based Visual Search (CVPR 2017)
