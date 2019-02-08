@@ -32,6 +32,16 @@ GitHub Link2: https://github.com/wbaek/tracking_via_colorization
 GitHub Link: https://github.com/NVIDIA/FastPhotoStyle
 Tutorial: https://github.com/NVIDIA/FastPhotoStyle/blob/master/TUTORIAL.md
 
+## ------------------------Reading on Color Gray Scale Images--------------------------
+1. Medium Blog: https://medium.freecodecamp.org/colorize-b-w-photos-with-a-100-line-neural-network-53d9b4449f8d
+2. Deep Koalarization: Image Colorization using CNNs : https://arxiv.org/pdf/1712.03400.pdf
+3. Let there be Color!: http://iizuka.cs.tsukuba.ac.jp/projects/colorization/data/colorization_sig2016.pdf
+4. Colourful Image Colorization: http://videolectures.net/eccv2016_zhang_image_colorization/
+
+Codes:
+1. https://github.com/baldassarreFe/deep-koalarization
+2. https://github.com/emilwallner/Coloring-greyscale-images 
+
 
 ## ------------------------Reading on Neural Style Transfer-------------------------
 1. Image Style Transfer Using Convolutional Neural Networks (CVPR 2016)
