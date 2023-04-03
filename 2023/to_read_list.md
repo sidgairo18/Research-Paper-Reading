@@ -16,10 +16,16 @@
 6. [Multi-Object Representation Learning with Iterative Variational Inference](https://arxiv.org/abs/1903.00450) :red_square:
 7. [Matrix Capsules with EM Routing (ICLR 2018)](https://openreview.net/pdf?id=HJWLfGWRb) :red_square:
 8. [Dynamic Routing Between Capsules (NeurIPS 2017)](https://proceedings.neurips.cc/paper/2017/file/2cad8fa47bbef282badbb8de5374b894-Paper.pdf) :red_square:
+9. [Object-Centric Slot Diffusion (2023)] (https://arxiv.org/abs/2303.10834) :red_square:
+10. [Simple Unsupervised Object-Centric Learning for Complex and Naturalistic Videos (2022)](https://arxiv.org/abs/2205.14065) :red_square:
 
 ## Self-Supervised Learning
 
 ## Object Tracking
+
+## XAI
+
+1. [Don’t Judge an Object by Its Context: Learning to Overcome Contextual Bias (CVPR 2020)](https://arxiv.org/abs/2001.03152)
 
 ## Miscellenous
 
