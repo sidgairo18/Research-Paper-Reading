@@ -23,6 +23,30 @@
 13. [Object-Centric Slot Diffusion](https://arxiv.org/pdf/2303.10834.pdf)
 
 ## Self-Supervised Learning
+1. [Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization](https://arxiv.org/pdf/2205.07839.pdf) :red_square:
+2. [DINOv1: Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294.pdf) :red_square:
+3. [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/pdf/2304.07193.pdf) :red_square:
+4. [Cut and Learn for Unsupervised Object Detection and Instance Segmentation](https://arxiv.org/pdf/2301.11320.pdf) :red_square:
+5. [Unsupervised Semantic Segmentation with Self-supervised Object-centric Representations](https://arxiv.org/pdf/2207.05027.pdf) :red_square:
+6. 
+
+## Weakly Supervised Learning
+1. [SemFormer: Semantic Guided Activation Transformer for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2210.14618.pdf) :red_square:
+2. [SLAMs: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2210.12417.pdf) :red_square:
+3. [Pointly-Supervised Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Pointly-Supervised_Instance_Segmentation_CVPR_2022_paper.pdf) :red_square:
+4. [Weakly Supervised Semantic Segmentation using Out-of-Distribution Data](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Weakly_Supervised_Semantic_Segmentation_Using_Out-of-Distribution_Data_CVPR_2022_paper.pdf) :red_sqauare:
+5. [Towards Noiseless Object Contours for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Towards_Noiseless_Object_Contours_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2022_paper.pdf) :red_square:
+6. [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/pdf/1603.07485.pdf) :red_square:
+7. [Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2007.01947.pdf) :red_square:
+8. [Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2004.04581.pdf) :red_square:
+9. [Pseudo-mask Matters in Weakly-supervised Semantic Segmentation](https://arxiv.org/pdf/2108.12995.pdf) :red_square:
+10. [Weakly-Supervised Semantic Segmentation via Sub-category Exploration](https://arxiv.org/pdf/2008.01183.pdf) :red_square:
+11. 
+
+## Image Segmentation
+1. [Normalized Cuts and Image Segmentation](https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf) :red_square:
+    1.1 [Normalized Graph Cuts PPT](http://www.sci.utah.edu/~gerig/CS7960-S2010/handouts/Normalized%20Graph%20cuts.pdf) :red_square:
+
 
 ## Object Tracking
 
@@ -39,15 +63,26 @@
 9. [CAM: Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150) :red_square:
 10. [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391) :red_square:
 11. [Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks](https://arxiv.org/abs/1710.11063) :red_square:
+12. [Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations](https://openaccess.thecvf.com/content/CVPR2021/papers/Stammer_Right_for_the_Right_Concept_Revising_Neuro-Symbolic_Concepts_by_Interacting_CVPR_2021_paper.pdf) :red_square
+13. [Interpretable Explanations of Black Boxes by Meaningful Perturbation](https://arxiv.org/pdf/1704.03296.pdf) :red_square:
 
 ## Vision Language Models
 1. [Learning Open-vocabulary Semantic Segmentation Models From Natural Language Supervision](https://arxiv.org/abs/2301.09121) :red_square:
 2. [CLIP Paper: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) :red_square:
 3. [GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/abs/2202.11094) :red_square:
+4. [Learning Visual Representations via Language-Guided Sampling](https://arxiv.org/pdf/2302.12248.pdf) :red_square:
+5. [DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting](https://arxiv.org/pdf/2112.01518.pdf) :red_square:
+6.
 
 ## Miscellenous
+1. [Early Convolutions Help Transformers See Better](https://arxiv.org/pdf/2106.14881.pdf) :red_square:
+2. [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf) :red_square:
+3. [Look and Think Twice: Capturing Top-Down Visual Attention with Feedback Convolutional Neural Networks](https://openaccess.thecvf.com/content_iccv_2015/papers/Cao_Look_and_Think_ICCV_2015_paper.pdf) :red_square:
 
 ## Not Classified
+
+## Learning Notes
+1. [Truncated Normal](https://people.sc.fsu.edu/~jburkardt/presentations/truncated_normal.pdf) :red_square:
 
 ### Legend
 
