@@ -7,6 +7,12 @@
 1. [Matryoshka Representation Learning (NeurIPS 2022)](https://arxiv.org/abs/2205.13147) :red_square:
 2. [Image as Set of Points (ICLR 2023, top 5%)](https://arxiv.org/abs/2303.01494) Comments: visual representation learning using Context Clusters. :red_square:
 
+## Object Detection, Localization, Tracking, and similar
+1. [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection](https://arxiv.org/pdf/2203.03605.pdf) :red_square:
+2. [DETR: End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf) :red_square:
+3. [DETR++: Taming Your Multi-Scale Detection Transformer](https://arxiv.org/pdf/2206.02977.pdf) :red_square:
+4. [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/abs/2010.04159) :red_square: 
+
 ## Object Centric Learning
 1. [Bridging the Gap to Real-World Object-Centric Learning (ICLR 2023)](https://arxiv.org/abs/2209.14860) :red_square:
 2. [Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects (NeurIPS 2018)](https://arxiv.org/abs/1806.01794) :red_square:
@@ -20,7 +26,10 @@
 10. [Simple Unsupervised Object-Centric Learning for Complex and Naturalistic Videos (2022)](https://arxiv.org/abs/2205.14065) :red_square:
 11. [UNSUPERVISED SEMANTIC SEGMENTATION WITH SELF-SUPERVISED OBJECT-CENTRIC REPRESENTATIONS](https://arxiv.org/pdf/2207.05027.pdf) :red_square:
 12. [RELATIVE REPRESENTATIONS ENABLE ZERO-SHOT LATENT SPACE COMMUNICATION](https://arxiv.org/pdf/2209.15430.pdf) :red_square:
-13. [Object-Centric Slot Diffusion](https://arxiv.org/pdf/2303.10834.pdf)
+13. [Object-Centric Representation Learning with Generative Spatial-Temporal Factorization](https://arxiv.org/pdf/2111.05393.pdf) :red_square:
+14. [ILLITERATE DALL-E LEARNS TO COMPOSE](https://arxiv.org/pdf/2110.11405.pdf) :red_square:
+15. [Shepherding Slots to Objects: Towards Stable and Robust Object-Centric Learning](https://arxiv.org/pdf/2303.17842.pdf) :red_square:
+16. [OBJECT REPRESENTATIONS AS FIXED POINTS: TRAINING ITERATIVE INFERENCE ALGORITHMS WITH IMPLICIT DIFFERENTIATION](https://openreview.net/pdf?id=rV3Gon4dD-5) :red_square:
 
 ## Self-Supervised Learning
 1. [Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization](https://arxiv.org/pdf/2205.07839.pdf) :red_square:
@@ -28,7 +37,14 @@
 3. [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/pdf/2304.07193.pdf) :red_square:
 4. [Cut and Learn for Unsupervised Object Detection and Instance Segmentation](https://arxiv.org/pdf/2301.11320.pdf) :red_square:
 5. [Unsupervised Semantic Segmentation with Self-supervised Object-centric Representations](https://arxiv.org/pdf/2207.05027.pdf) :red_square:
-6. 
+6. [Unsupervised Part Discovery from Contrastive Reconstruction](https://proceedings.neurips.cc/paper/2021/file/ec8ce6abb3e952a85b8551ba726a1227-Paper.pdf) :red_square: 
+7. [WHAT DO SELF-SUPERVISED VISION TRANSFORMERS LEARN?](https://arxiv.org/pdf/2305.00729.pdf) :red_square:
+[OPEN REVIEW DISCUSSION OF ABOVE](https://openreview.net/forum?id=azCKuYyS74)
+8. [Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/pdf/2109.14279.pdf) :red_square:
+9. [ResMLP: Feedforward networks for image classification with data-efficient training](https://arxiv.org/pdf/2105.03404.pdf) :red_square:
+10. [Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/pdf/1807.06653.pdf) :red_square:
+11. [
+
 
 ## Weakly Supervised Learning
 1. [SemFormer: Semantic Guided Activation Transformer for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2210.14618.pdf) :red_square:
@@ -42,6 +58,10 @@
 9. [Pseudo-mask Matters in Weakly-supervised Semantic Segmentation](https://arxiv.org/pdf/2108.12995.pdf) :red_square:
 10. [Weakly-Supervised Semantic Segmentation via Sub-category Exploration](https://arxiv.org/pdf/2008.01183.pdf) :red_square:
 11. 
+
+## Few-Shot Learning
+1. [Hypercorrelation Squeeze for Few-Shot Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Min_Hypercorrelation_Squeeze_for_Few-Shot_Segmentation_ICCV_2021_paper.pdf) :red_square:
+2. 
 
 ## Image Segmentation
 1. [Normalized Cuts and Image Segmentation](https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf) :red_square:
@@ -65,6 +85,8 @@
 11. [Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks](https://arxiv.org/abs/1710.11063) :red_square:
 12. [Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations](https://openaccess.thecvf.com/content/CVPR2021/papers/Stammer_Right_for_the_Right_Concept_Revising_Neuro-Symbolic_Concepts_by_Interacting_CVPR_2021_paper.pdf) :red_square
 13. [Interpretable Explanations of Black Boxes by Meaningful Perturbation](https://arxiv.org/pdf/1704.03296.pdf) :red_square:
+14. [Fast Axiomatic Attribution for Neural Networks](https://arxiv.org/pdf/2111.07668.pdf) :red_sqare:
+15. [This Looks Like That... Does it? Shortcomings of Latent Space Prototype Interpretability in Deep Networks](https://arxiv.org/pdf/2105.02968.pdf) :red_square:
 
 ## Vision Language Models
 1. [Learning Open-vocabulary Semantic Segmentation Models From Natural Language Supervision](https://arxiv.org/abs/2301.09121) :red_square:
@@ -74,15 +96,28 @@
 5. [DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting](https://arxiv.org/pdf/2112.01518.pdf) :red_square:
 6.
 
+## Language or NLP Papers
+1. [IBOT : IMAGE BERT PRE-TRAINING WITH ONLINE TOKENIZER](https://arxiv.org/pdf/2111.07832.pdf) :red_square:
+
+## Generative Models
+1. [ImageGPT: Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) :red_square:
+
 ## Miscellenous
 1. [Early Convolutions Help Transformers See Better](https://arxiv.org/pdf/2106.14881.pdf) :red_square:
 2. [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf) :red_square:
 3. [Look and Think Twice: Capturing Top-Down Visual Attention with Feedback Convolutional Neural Networks](https://openaccess.thecvf.com/content_iccv_2015/papers/Cao_Look_and_Think_ICCV_2015_paper.pdf) :red_square:
+4. [DeiT III: Revenge of the ViT](https://arxiv.org/abs/2204.07118) :red_square:
+5. [Deformable Convolutional Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf) :red_square:
 
 ## Not Classified
+1. [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://arxiv.org/pdf/2304.06035.pdf) :red_square:
+2. [SPREADING VECTORS FOR SIMILARITY SEARCH](https://arxiv.org/pdf/1806.03198.pdf) :red_square:
 
 ## Learning Notes
 1. [Truncated Normal](https://people.sc.fsu.edu/~jburkardt/presentations/truncated_normal.pdf) :red_square:
+
+## Additional Resources
+1. [Reading for Graduate Students (General by Matt Might)](https://matt.might.net/articles/books-papers-materials-for-graduate-students/) :red_square:
 
 ### Legend
 
