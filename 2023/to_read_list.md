@@ -12,6 +12,7 @@
 2. [DETR: End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf) :red_square:
 3. [DETR++: Taming Your Multi-Scale Detection Transformer](https://arxiv.org/pdf/2206.02977.pdf) :red_square:
 4. [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/abs/2010.04159) :red_square: 
+5. [Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Mask_DINO_Towards_a_Unified_Transformer-Based_Framework_for_Object_Detection_CVPR_2023_paper.pdf) :red_square:
 
 ## Object Centric Learning
 1. [Bridging the Gap to Real-World Object-Centric Learning (ICLR 2023)](https://arxiv.org/abs/2209.14860) :red_square:
@@ -30,8 +31,10 @@
 14. [ILLITERATE DALL-E LEARNS TO COMPOSE](https://arxiv.org/pdf/2110.11405.pdf) :red_square:
 15. [Shepherding Slots to Objects: Towards Stable and Robust Object-Centric Learning](https://arxiv.org/pdf/2303.17842.pdf) :red_square:
 16. [OBJECT REPRESENTATIONS AS FIXED POINTS: TRAINING ITERATIVE INFERENCE ALGORITHMS WITH IMPLICIT DIFFERENTIATION](https://openreview.net/pdf?id=rV3Gon4dD-5) :red_square:
+17. [Object Discovery from Motion-Guided Tokens](https://openaccess.thecvf.com/content/CVPR2023/papers/Bao_Object_Discovery_From_Motion-Guided_Tokens_CVPR_2023_paper.pdf) :red_square:
+18. [Unsupervised Object Localization: Observing the Background to Discover Objects](https://openaccess.thecvf.com/content/CVPR2023/papers/Simeoni_Unsupervised_Object_Localization_Observing_the_Background_To_Discover_Objects_CVPR_2023_paper.pdf) :red_square:
 
-## Self-Supervised Learning
+## Self-Supervised Learning (Vision)
 1. [Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization](https://arxiv.org/pdf/2205.07839.pdf) :red_square:
 2. [DINOv1: Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294.pdf) :red_square:
 3. [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/pdf/2304.07193.pdf) :red_square:
@@ -43,7 +46,15 @@
 8. [Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/pdf/2109.14279.pdf) :red_square:
 9. [ResMLP: Feedforward networks for image classification with data-efficient training](https://arxiv.org/pdf/2105.03404.pdf) :red_square:
 10. [Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/pdf/1807.06653.pdf) :red_square:
-11. [
+11. [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://openaccess.thecvf.com/content/CVPR2023/papers/Assran_Self-Supervised_Learning_From_Images_With_a_Joint-Embedding_Predictive_Architecture_CVPR_2023_paper.pdf) :red_square:
+12. [Understanding Masked Image Modeling via Learning Occlusion Invariant Feature](https://openaccess.thecvf.com/content/CVPR2023/papers/Kong_Understanding_Masked_Image_Modeling_via_Learning_Occlusion_Invariant_Feature_CVPR_2023_paper.pdf) :red_square:
+13. [Self-supervised AutoFlow](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Self-Supervised_AutoFlow_CVPR_2023_paper.pdf) :red_square:
+14. [Hard Patches Mining for Masked Image Modeling](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Hard_Patches_Mining_for_Masked_Image_Modeling_CVPR_2023_paper.pdf) :red_square:
+15. [Siamese Image Modeling for Self-Supervised Vision Representation Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Tao_Siamese_Image_Modeling_for_Self-Supervised_Vision_Representation_Learning_CVPR_2023_paper.pdf) :red_square:
+16. [Mixed Autoencoder for Self-supervised Visual Representation Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Mixed_Autoencoder_for_Self-Supervised_Visual_Representation_Learning_CVPR_2023_paper.pdf) :red_square:
+17. [Coreset Sampling from Open-Set for Fine-Grained Self-Supervised Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Coreset_Sampling_From_Open-Set_for_Fine-Grained_Self-Supervised_Learning_CVPR_2023_paper.pdf) :red_square:
+18. [Masked Images Are Counterfactual Samples for Robust Fine-tuning](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Masked_Images_Are_Counterfactual_Samples_for_Robust_Fine-Tuning_CVPR_2023_paper.pdf) :red_square:
+
 
 
 ## Weakly Supervised Learning
@@ -87,6 +98,8 @@
 13. [Interpretable Explanations of Black Boxes by Meaningful Perturbation](https://arxiv.org/pdf/1704.03296.pdf) :red_square:
 14. [Fast Axiomatic Attribution for Neural Networks](https://arxiv.org/pdf/2111.07668.pdf) :red_sqare:
 15. [This Looks Like That... Does it? Shortcomings of Latent Space Prototype Interpretability in Deep Networks](https://arxiv.org/pdf/2105.02968.pdf) :red_square:
+16. [Class Attention Transfer Based Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Class_Attention_Transfer_Based_Knowledge_Distillation_CVPR_2023_paper.pdf) :red_square:
+17. [CRAFT: Concept Recursive Activation FacTorization for Explainability](https://openaccess.thecvf.com/content/CVPR2023/papers/Fel_CRAFT_Concept_Recursive_Activation_FacTorization_for_Explainability_CVPR_2023_paper.pdf) :red_square:
 
 ## Vision Language Models
 1. [Learning Open-vocabulary Semantic Segmentation Models From Natural Language Supervision](https://arxiv.org/abs/2301.09121) :red_square:
@@ -112,6 +125,8 @@
 ## Not Classified
 1. [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://arxiv.org/pdf/2304.06035.pdf) :red_square:
 2. [SPREADING VECTORS FOR SIMILARITY SEARCH](https://arxiv.org/pdf/1806.03198.pdf) :red_square:
+3. [Understanding Imbalanced Semantic Segmentation Through Neural Collapse](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhong_Understanding_Imbalanced_Semantic_Segmentation_Through_Neural_Collapse_CVPR_2023_paper.pdf) :red_square:
+4. [NIRVANA: Neural Implicit Representations of Videos with Adaptive Networks and Autoregressive Patch-wise Modeling](https://openaccess.thecvf.com/content/CVPR2023/papers/Maiya_NIRVANA_Neural_Implicit_Representations_of_Videos_With_Adaptive_Networks_and_CVPR_2023_paper.pdf) :red_square:
 
 ## Learning Notes
 1. [Truncated Normal](https://people.sc.fsu.edu/~jburkardt/presentations/truncated_normal.pdf) :red_square:
